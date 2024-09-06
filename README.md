@@ -1,2 +1,1 @@
-Modern Computer System labs
-Reports and Cisco Packet Tracer files.
+Modern Computer System labs, reports and Cisco Packet Tracer files.
